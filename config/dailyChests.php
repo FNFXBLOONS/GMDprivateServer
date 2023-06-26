@@ -15,8 +15,8 @@ $chest1items = [1, 2, 3, 4, 5, 6];
 $chest1minKeys = 1;
 $chest1maxKeys = 6;
 //BIG CHEST
-$chest2minOrbs = 2000;
-$chest2maxOrbs = 4000;
+$chest2minOrbs = 500;
+$chest2maxOrbs = 1000;
 $chest2minDiamonds = 20;
 $chest2maxDiamonds = 100;
 $chest2items = [1, 2, 3, 4, 5, 6];
